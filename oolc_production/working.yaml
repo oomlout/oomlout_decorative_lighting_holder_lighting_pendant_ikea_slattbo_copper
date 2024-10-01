@@ -2,5 +2,5 @@ project_id: oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_cop
 project_name: Oomlout Decorative Lighting Holder Lighting Pendant Ikea Slattbo Copper
 project_repo: https://github.com/oomlout/oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper
 production_format:
-  oolc_1:
+  oolc_1_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper_adapter:
     file_location: source_files/oolc_1.cdr
